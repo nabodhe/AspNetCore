@@ -1,0 +1,2 @@
+# AspNetCore
+AspNetCore practice
